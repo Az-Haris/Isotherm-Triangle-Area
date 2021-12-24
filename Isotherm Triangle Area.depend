@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636731418 source:c:\users\md alimuzzaman haris\desktop\c programme\isotherm triangle area\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
